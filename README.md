@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing things that looks cool.
+- 🤔 &nbsp; Exploring new technologies and the understanding on them.
 - 🎓 &nbsp; Currently Pursuing B.Tech In EEE but pretty much Interested In Software.
 - 💼 &nbsp; student
 - 🌱 &nbsp; Learning more about computer Networks, Cloud computing.
