@@ -3,18 +3,18 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and the understanding on them.
+- 🤔 &nbsp; Exploring new technologies and have understanding on them.
 - 🎓 &nbsp; Currently Pursuing B.Tech In EEE but pretty much Interested In Software.
 - 💼 &nbsp; student
 - 🌱 &nbsp; Learning more about computer Networks, Cloud computing.
 - 🎓 &nbsp; Exploring C++ and javascript on Leetcode for competative programming.
-- ✍️ &nbsp; Do Web design as a hobby .
+- ✍️ &nbsp; Do Web development as a hobby .
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
