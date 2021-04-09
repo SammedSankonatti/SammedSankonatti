@@ -10,8 +10,10 @@
 - 🎓 &nbsp; Exploring C++ on Leetcode for competative programming.
 - ✍️ &nbsp; Do Web development as a hobby .
 
-<h3> Certification Courses </h3>
-- Design and Analysis of Algorithms  - NPTEL
+<h3> ✍️ &nbsp; Certification Courses </h3>
+
+-  Design and Analysis of Algorithms  - NPTEL.
+ 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
