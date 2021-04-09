@@ -7,8 +7,11 @@
 - 🎓 &nbsp; Currently Pursuing B.Tech In EEE and pretty much Interested In Coading.
 - 💼 &nbsp; student of BMSCE
 - 🌱 &nbsp; Learning more about computer Networks, Cloud computing.
-- 🎓 &nbsp; Exploring C++ and javascript on Leetcode for competative programming.
+- 🎓 &nbsp; Exploring C++ on Leetcode for competative programming.
 - ✍️ &nbsp; Do Web development as a hobby .
+
+<h3> Certification Courses </h3>
+- Design and Analysis of Algorithms  - NPTEL
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
