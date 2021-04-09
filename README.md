@@ -13,6 +13,9 @@
 <h3> ✍️ &nbsp; Certification Courses </h3>
 
 -  Design and Analysis of Algorithms  - NPTEL.
+-  Data Structures and Algorithms  - COURSERA.
+-  Graph Theory  - COURSERA.
+-  Computer Networks and Internet Protocols  - NPTEL.
  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
