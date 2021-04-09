@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and have understanding on them.
-- 🎓 &nbsp; Currently Pursuing B.Tech In EEE but pretty much Interested In Software.
-- 💼 &nbsp; student
+- 🎓 &nbsp; Currently Pursuing B.Tech In EEE and pretty much Interested In Coading.
+- 💼 &nbsp; student of BMSCE
 - 🌱 &nbsp; Learning more about computer Networks, Cloud computing.
 - 🎓 &nbsp; Exploring C++ and javascript on Leetcode for competative programming.
 - ✍️ &nbsp; Do Web development as a hobby .
